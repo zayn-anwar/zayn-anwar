@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @zayn-anwar
-- 👀 I’m interested in training on codewars and robotics!
-- 🌱 I’m currently learning new python concepts.
-- 💞️ I’m looking to collaborate on small projects.
-- 📫 How to reach me: 1nzayn on discord.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love python.
+Hi I'm Zayn Anwar and I currently know Python, HTML, C++, JavaScript, CSS, and I am currently learning React Native. I love coding and it is one of my passions in life.
 
 <!---
 zayn-anwar/zayn-anwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
